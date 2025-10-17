@@ -40,7 +40,7 @@ Half wave rectifier with filter:
 
 ![half wave circuit](https://github.com/user-attachments/assets/c21af810-1202-408f-894e-80175703a20b)
 
-Bridge rectifier with filter:
+full wave rectifier with filter:
 ![full wave circuit](https://github.com/user-attachments/assets/5d3104f8-4e22-492b-ae38-aab3f1043d8f)
 
 TABULAR COLUMN
