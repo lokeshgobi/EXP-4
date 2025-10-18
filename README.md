@@ -49,18 +49,20 @@ Half wave rectifier with filter:
 ![half wave circuit](https://github.com/user-attachments/assets/c21af810-1202-408f-894e-80175703a20b)
 
 full wave rectifier with filter:
+
 ![full wave circuit](https://github.com/user-attachments/assets/5d3104f8-4e22-492b-ae38-aab3f1043d8f)
 
 TABULAR COLUMN
+
+
 Rectifier without filter
 
 ![full wave tabulation](https://github.com/user-attachments/assets/874d845f-8b23-4189-84b2-f89d58802184)
 
-
-TABULAR COLUMN
 Rectifier with filter
 
 ![half wave tabulation](https://github.com/user-attachments/assets/06369e7f-9eb9-432e-9934-ea5b916ab186)
+
 
 WAVEFORM:
 
